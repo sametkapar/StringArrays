@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\StringArrays\StringArrays\bin\Debug\StringArrays.exe.config
+C:\Users\90506\source\repos\StringArrays\StringArrays\bin\Debug\StringArrays.exe
+C:\Users\90506\source\repos\StringArrays\StringArrays\bin\Debug\StringArrays.pdb
+C:\Users\90506\source\repos\StringArrays\StringArrays\obj\Debug\StringArrays.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\StringArrays\StringArrays\obj\Debug\StringArrays.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\StringArrays\StringArrays\obj\Debug\StringArrays.exe
+C:\Users\90506\source\repos\StringArrays\StringArrays\obj\Debug\StringArrays.pdb
